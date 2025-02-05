@@ -33,6 +33,9 @@ st.markdown(" **Proile Guithub** https://github.com/seyepapa")
 st.markdown("🏠 Rue 27X18, Médina, Dakar, Sénégal")
 
 # Section PRINCIPALES COMPETENCES
+
+st.header("RESUME")
+st.markdown("Data Engineer / Data Scientist avec une expertise en Big Data, ingénierie des données et analyse décisionnelle. Expérience dans la conception et l’optimisation de data lakes, ETL et entrepôts de données en environnement on-premise et cloud. Maîtrise des technologies Hadoop, Spark, Kafka, SQL, NoSQL, Python et Power BI pour le traitement et la visualisation des données. Passionné par l’innovation et la mise en place de solutions analytiques performantes.")
 st.header("PRINCIPALES COMPETENCES")
 
 # Sous-section COMPETENCES
