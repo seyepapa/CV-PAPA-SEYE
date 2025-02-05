@@ -166,8 +166,8 @@ st.markdown("2013-2014 | UGB-Sénégal (Université Gaston Berger de Saint-Louis
 
 # Section Langues
 st.header("Langues")
-st.markdown("- Français")
-st.markdown("- Anglais")
+st.markdown("- **Français** : courant")
+st.markdown("- **Anglais** : Professionnel")
 st.markdown("**___________________________________________________________________________________________________________________________________________**")
 # Section Centres d'intérêt
 st.header("Centres d'intérêt")
